@@ -10,7 +10,9 @@ Challenges
 ----------
 
 1.  [Day 1: Secret Entrance](https://adventofcode.com/2025/day/1)
-2.  _??_
+    [(Solution)](https://github.com/deaches/aoc25.lua/blob/main/day01.lua)
+2.  [Day 2: Gift Shop](https://adventofcode.com/2025/day/2)
+    [(Solution)](https://github.com/deaches/aoc25.lua/blob/main/day02.lua)
 3.  _???_
 4.  _????_
 5.  _?????_
