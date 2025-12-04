@@ -3,7 +3,7 @@ Advent of Code 2025: Lua Edition
 
 [This year's challenge](https://adventofcode.com/2025) will only have
 [twelve days](https://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song))
-to save Christmas rather than the traditional twelty-five.
+to save Christmas rather than the traditional twenty-five.
 Sadly, this is no longer technically an advent calendar.
 
 Challenges
