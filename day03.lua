@@ -35,11 +35,11 @@ function joltage (bank)
 
    for i = 1, (#bank - 1) do
       for j = (i + 1), #bank do
-	 local jolts = string.char(bank:byte(i), bank:byte(j))
+         local jolts = string.char(bank:byte(i), bank:byte(j))
 
-	 if jolts > maxjolts then
-	    maxjolts = jolts
-	 end
+         if jolts > maxjolts then
+            maxjolts = jolts
+         end
       end
    end
 

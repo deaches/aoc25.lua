@@ -56,7 +56,7 @@ function isinvalid (num)
 
    for i = 1, halfway do
       if ds[i] ~= ds[halfway + i] then
-	 return false
+         return false
       end
    end
 
@@ -76,7 +76,7 @@ local input = io.read("a")
 for start, stop in input:gmatch("([1-9]*%d+)-([1-9]*%d+)") do
    for i = tonumber(start), tonumber(stop) do
       if isinvalid(i) then
-	 sum = sum + i
+         sum = sum + i
       end
    end
 end
